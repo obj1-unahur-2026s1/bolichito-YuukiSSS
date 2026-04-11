@@ -1,0 +1,9 @@
+import objetos
+
+object rosa {
+  var gustoDePeso = 2000
+
+  method gustoDePeso() {
+    return 2000
+  }
+}
